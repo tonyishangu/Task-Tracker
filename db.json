@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doc Appointment",
+      "day": "12th March at 2:30pm",
+      "remainder": true,
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Meeting",
+      "day": "12th March at 2:30pm",
+      "remainder": true,
+      "reminder": true
+    },
+    {
+      "text": "Dominate the World",
+      "day": "1st May, 2022 at 0000hrs",
+      "reminder": false,
+      "id": 3
+    }
+  ]
+}
