@@ -5,7 +5,7 @@
       "text": "Doc Appointment",
       "day": "12th March at 2:30pm",
       "remainder": true,
-      "reminder": true
+      "reminder": false
     },
     {
       "id": 2,
@@ -19,6 +19,12 @@
       "day": "1st May, 2022 at 0000hrs",
       "reminder": false,
       "id": 3
+    },
+    {
+      "text": "Travel",
+      "day": "friday 1700hrs",
+      "reminder": true,
+      "id": 4
     }
   ]
 }
